@@ -14,7 +14,7 @@ Install-Package Unity -Version 5.11.7
 
 ### Generated App.config:
 
-```bash
+```bash 
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
   <configSections>
